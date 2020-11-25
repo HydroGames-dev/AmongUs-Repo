@@ -1,0 +1,14 @@
+name: AmongUs
+author: alvin0319
+main: alvin0319\AmongUs\AmongUs
+version: 0.1.0
+api: 3.0.0
+website: https://github.com/alvin0319/AmongUs
+softdepend: ["SimpleMapRenderer"]
+
+permissions:
+  amongus.command:
+    default: true
+    children:
+      amongus.command.manage:
+        default: op
