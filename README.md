@@ -1,3 +1,6 @@
+<p><a href="minecraft:?addExternalServer=AmongUs|test.alvin0319.ml:25578">Join the test server</a></p>
+
+
 # AmongUs
 
 A PocketMine-MP mini-game plugin called AmongUs
