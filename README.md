@@ -5,7 +5,7 @@ This is simlar to the AmongUs game but in MCBE.
 
 <a href="minecraft:?addExternalServer=AmongUs|test.alvin0319.ml:25578">Join the test server</a>
 
-<a class="btn btn-primary mx-1 my-1" href="minecraft://?addExternalServer=Ownage Network ★ BIG UPDATES ★|OwnagePE.com:19132" title="Connect"><i class="fa fa-gamepad fa-fw" aria-hidden="true"></i></a>
+<a href="minecraft://?addExternalServer=Ownage Network ★ BIG UPDATES ★|OwnagePE.com:19132" title="Connect"><i class="fa fa-gamepad fa-fw" aria-hidden="true"></i></a>
 
 ## This is yet not complete!
 
