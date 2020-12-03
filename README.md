@@ -3,7 +3,7 @@
 A PocketMine-MP mini-game plugin called AmongUs
 This is simlar to the AmongUs game but in MCBE.
 
-<a href="minecraft://?addExternalServer=Among Us test server|test.alvin0319.ml:25578">Join the test server</a>
+<a href="minecraft://?addExternalServer=AmongUs|test.alvin0319.ml:25578">Join the test server</a>
 
 ## This is yet not complete!
 
